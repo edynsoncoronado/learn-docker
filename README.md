@@ -2,32 +2,32 @@
 
 ![link image](src/containers.png)
 
-- Run start a container, pull if not exist image
+- **Run start a container, pull if not exist image**  
 docker run *image*
 
-- List containers
+- **List containers**  
 docker ps -a
 
-- Docker stop
+- **Docker stop**  
 docker stop *container*
 
-- Remove a container
+- **Remove a container**  
 docker rm *container*
 
-- List images
+- **List images**  
 docker images
 
-- Remove images
+- **Remove images**  
 docker rmi *image*
 
-- Run STDIN
+- **Run STDIN**  
 docker run -i *image*
 
-- Port mapping
+- **Port mapping**  
 docker run -p *locahostport*:*containerport* *image*
 
-- Volume mapping
+- **Volume mapping**  
 docker run -v /**hostpath**:/**containerpath** *image*
 
-- Inspect Container
+- **Inspect Container**  
 docker inspect **container**

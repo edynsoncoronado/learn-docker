@@ -61,3 +61,10 @@ docker inspect **container**
 ![Docker compose build](src/img18.png)
 ![Docker compose verions](src/img19.png)
 ![Docker compose networks](src/img20.png)
+![Docker private registry](src/img21.png)
+![Deploy private registry](src/img23.png)
+![Docker containerization](src/img25.png)
+![Docker Namespace - PID](src/img26.png)
+![Docker Cgroups](src/img27.png)
+
+source: https://www.youtube.com/watch?v=fqMOX6JJhGo&t=5683s

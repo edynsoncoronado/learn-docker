@@ -67,4 +67,7 @@ docker inspect **container**
 ![Docker Namespace - PID](src/26.png)
 ![Docker Cgroups](src/27.png)
 
-source: https://www.youtube.com/watch?v=fqMOX6JJhGo&t=5683s
+source:
+- https://www.youtube.com/watch?v=fqMOX6JJhGo&t=5683s
+- Install docker compose: https://gist.github.com/EvgenyOrekhov/1ed8a4466efd0a59d73a11d753c0167b
+- Manual docker compose: https://gabrieltanner.org/blog/docker-compose

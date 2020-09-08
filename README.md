@@ -32,7 +32,7 @@ docker run -v /**hostpath**:/**containerpath** *image*
 - **Inspect Container**  
 docker inspect **container**
 
-
+![Docker sheet](src/docker-sheet.png)
 ![How to create my own image](src/img1.png)
 ![dockerfile](src/img2.png)
 ![dockerfile argument](src/img3.png)

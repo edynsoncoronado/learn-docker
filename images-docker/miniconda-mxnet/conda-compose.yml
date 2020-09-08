@@ -1,0 +1,10 @@
+version: '2'
+services:
+  miniconda:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - /home/edy/Documents/Recursos/edyN/eee/MyRepos/Book-Dive-into-Deep-Learning:/opt/d2l-en
+    stdin_open: true # docker run -i
+    tty: true        # docker run -t
